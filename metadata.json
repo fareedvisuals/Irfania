@@ -1,0 +1,6 @@
+{
+  "name": "Irfania Model Higher Secondary School",
+  "description": "Quality education from Class 1 to Class 10, optional Hifz-ul-Quran program from Class 6 onward, and supportive student hostel facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
